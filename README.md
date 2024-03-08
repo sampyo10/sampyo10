@@ -1,5 +1,8 @@
-System.out.println("Welcome to my profile!😆")
+<code>System.out.println("Welcome to my profile!😆")</code>
+<hr>
 
-👨‍💻 Pursuing a degree in Systems Analysis and Development at Centro Universitário de Brasília (CEUB)
-🔠 B1 Intermediate English Level
+<p>👨‍💻 Pursuing a degree in Systems Analysis and Development at Centro Universitário de Brasília (CEUB)</p>
+<p>🔠 B1 Intermediate English Level</p>
+<p>📚 Studing Java Development</p>
+<hr>
 
