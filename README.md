@@ -3,7 +3,7 @@
 ### Olá eu sou o Igor Sampaio 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)]([www.linkedin.com/in/igor-sampaio-4133bb26b](https://www.linkedin.com/in/igor-sampaio-4133bb26b/))
+)](www.linkedin.com/in/sampyodev)
 [![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/samp.yo/)
 
